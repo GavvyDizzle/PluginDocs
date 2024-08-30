@@ -50,7 +50,7 @@
 * [PrisonMinesExtension](prisonminesextension.md)
 * [Quests](quests.md)
 * [RentableRegions](rentableregions.md)
-* [RewardsInventory](page.md)
+* [RewardsInventory](rewardsinventory.md)
 * [ServerUtils](serverutils.md)
 * [Tournaments](tournaments.md)
 * [Vouchers](vouchers.md)

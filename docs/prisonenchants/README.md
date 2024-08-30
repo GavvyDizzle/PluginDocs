@@ -35,7 +35,7 @@ description: >-
 * [mcMMO](https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/) - Allows for boosting mechanics
 * [PrisonMines](../prisonmines.md) - Allows enchants to accurately remove blocks from mines (just for counting)
 * RewardDrops (private) - Optional dependency used enchantments that might boost odds for getting drops.
-* [RewardsInventory](../page.md) (private) - Supports giving armor to offline players
+* [RewardsInventory](../rewardsinventory.md) (private) - Supports giving armor to offline players
 
 ## Data Storage
 
